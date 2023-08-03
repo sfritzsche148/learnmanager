@@ -1,0 +1,90 @@
+.redbtn {
+  background-color: #f00946;
+  border-color: #f00946;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.Logo {
+  width: 400px;
+  padding-left: 70px;
+}
+
+.navbar ul li {
+  list-style-type: none;
+  float: left;
+  margin-right: 100px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.nav-link {
+  margin-right: -50px;
+  margin-top: 5px;
+}
+
+.navbar ul li:hover {
+  color: #f00946;
+}
+
+.Login {
+  text-align: center;
+}
+
+.Login label {
+  font-size: 20px;
+  font-size: bold;
+}
+
+.Login input {
+  border-width: 3px;
+  border-radius: 30px;
+}
+
+.Login input:hover {
+  border-color: #f00946;
+}
+
+.Login button {
+    border-radius: 30px;
+    margin-top: 20px;
+}
+
+.Login button:hover {
+  color: #f00946;
+}
+
+.Login p {
+  margin-top: 20px;
+}
+
+.heropic {
+  width: 800px;
+  height: 800px;
+  margin-left: 500px;
+}
+
+.herobtn {
+  background-color: #f00946;
+  border-color: #f00946;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  float: left;
+  margin-top: 500px;
+  margin-left: 220px;
+}
+
+.hero-p {
+  text-align: center;
+  width: 200px;
+  float: left;
+  margin-top: 330px;
+  margin-left: 160px;
+  position: absolute;
+}
+
+.hero-text {
+  margin-left: 50px;
+}
